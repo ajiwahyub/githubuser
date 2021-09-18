@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConsumerApp</string>
+    <string name="item_name">Name</string>
+    <string name="item_username">Username: </string>
+    <string name="item_company">Company</string>
+    <string name="item_location">Location</string>
+    <string name="move_detail">Get User Detail</string>
+    <string name="favorite_empty">Your favorite list is empty, please add someone that you liked</string>
+</resources>
